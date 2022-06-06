@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=thorataditya14)
 
 - 👋 Hi, I’m @thorataditya14
 - 👀 I’m interested in Data Science
